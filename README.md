@@ -4,4 +4,4 @@
 
 ##### After the recursive calls, the function swaps the left and right subtrees of the current node. The process continues for each node in the tree, and the function finally returns the inverted binary tree with its root as the result. The time complexity is O(n), where n is the number of nodes in the tree, as each node is visited once, and the space complexity is O(h), where h is the height of the tree, due to recursion.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Invert-Binary-Tree/).
